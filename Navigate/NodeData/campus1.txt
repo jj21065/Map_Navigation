@@ -1,0 +1,36 @@
+ 
+大學路勝利路口	自強校區大門	奇美大樓	NULL	NULL	NULL	NULL	系統與船舶系館	NULL	NULL	電機系館	機械系館	化學系館	儀器大樓	NULL	NULL	NULL	NULL	NULL	NULL	航太系館	小側門	NULL	NULL	NULL	創新研發大樓	NULL	NULL	;				
+0  -7.1	129.17 -7.1	129.18 45.81	189.77 45.81	189.77 25.9	202.69 17.17	289.29 25.9	188.83 73.79	115.35 86.24	15.51 89.07	113.85 154.11	183.98 218.77	110.47 307.3	179.9 339	11.28 402.19	108.37 402.2	179.95 402.2	280.12 402.2	129.18 -30.97	300.73 -32.7	129.18 -94.67	7.89 -157.06	36.69 -155.83	129.18 -151.88	302.81 -143.48	39.44 -220.35	41.78 -259.61	302.81 -259.61					
+0	129.18	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x					
+129.18	0	52.9	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	23.87	x	x	x	x	x	x	x	x	x					
+x	52.9	0	60.58	x	x	x	x	42.73	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x					
+x	x	60.58	0	19.91	x	x	28	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x					
+x	x	x	19.91	0	15.59	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x					
+x	x	x	x	15.59	0	87.05	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x					
+x	x	x	x	x	87.05	0	x	x	x	x	x	x	x	x	x	x	376.39	x	x	x	x	x	x	x	x	x	x					
+x	x	x	28	x	x	x	0	x	x	x	144.98	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x					
+x	x	42.73	x	x	x	x	x	0	99.84	67.87	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x					
+x	x	x	x	x	x	x	x	99.84	0	x	x	x	x	313.12	x	x	x	x	x	x	x	x	x	x	x	x	x					
+x	x	x	x	x	x	x	x	67.87	x	0	x	153.21	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x					
+x	x	x	x	x	x	x	144.98	x	x	x	0	x	120.21	x	x	x	x	x	x	x	x	x	x	x	x	x	x					
+x	x	x	x	x	x	x	x	x	x	153.21	x	0	x	x	94.86	x	x	x	x	x	x	x	x	x	x	x	x					
+x	x	x	x	x	x	x	x	x	x	x	120.21	x	0	x	x	63.2	x	x	x	x	x	x	x	x	x	x	x					
+x	x	x	x	x	x	x	x	x	313.12	x	x	x	x	0	97.09	x	x	x	x	x	x	x	x	x	x	x	x					
+x	x	x	x	x	x	x	x	x	x	x	x	94.86	x	97.09	0	71.58	x	x	x	x	x	x	x	x	x	x	x					
+x	x	x	x	x	x	x	x	x	x	x	x	x	63.2	x	71.58	0	100.17	x	x	x	x	x	x	x	x	x	x					
+x	x	x	x	x	x	376.39	x	x	x	x	x	x	x	x	x	100.17	0	x	x	x	x	x	x	x	x	x	x					
+x	23.87	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	0	171.55	63.71	x	x	x	x	x	x	x					
+x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	171.55	0	x	x	x	x	110.79	x	x	x					
+x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	63.71	x	0	x	x	57.21	x	x	x	x					
+x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	0	29.47	x	x	x	x	x					
+x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	29.47	0	91.91	x	64.58	x	x					
+x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	57.21	x	91.91	0	173.83	x	x	x					
+x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	110.79	x	x	x	173.83	0	x	x	116.13					
+x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	64.58	x	x	0	39.32	x					
+x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	39.32	0	261.02					
+x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	x	116.13	x	261.02	0					
+																																
+																																
+																																
+																																
+										0																						
